@@ -1,7 +1,7 @@
 var blacklist = {
   INPUT: true,
   SELECT: true,
-  TEXTAREA: true
+  //TEXTAREA: true
 };
 
 module.exports = function(event) {
