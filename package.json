@@ -1,6 +1,6 @@
 {
-  "name": "react-keybinding",
-  "version": "2.0.0",
+  "name": "decisionary-react-keybinding",
+  "version": "2.0.2",
   "description": "declarative, concise keybindings for react",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "react",
     "react-component"
   ],
-  "author": "Tom MacWright",
+  "author": "Jc Murray",
   "license": "BSD",
   "devDependencies": {
     "browserify": "^9.0.3",
@@ -28,6 +28,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:mapbox/react-keybinding.git"
+    "url": "git@github.com/Decisionary/react-keybinding"
   }
 }
